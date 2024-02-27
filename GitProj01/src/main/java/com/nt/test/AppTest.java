@@ -3,7 +3,9 @@ package com.nt.test;
 public class AppTest {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		ArithmeticOperations ar = new ArithmeticOperations();
+		System.out.println(ar.sum(100, 200));
+		System.out.println(ar.sub(200, 100));
 
 	}
 
