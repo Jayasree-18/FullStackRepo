@@ -7,6 +7,8 @@ public class AppTest {
 		System.out.println(ar.sum(100, 200));
 		System.out.println(ar.sub(200, 100));
 		System.out.println("----------------");
+		System.out.println("----------------");
+		System.out.println(ar.mul(5, 2));
 	}
 
 }
