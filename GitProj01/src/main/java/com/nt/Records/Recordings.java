@@ -8,4 +8,8 @@ public class Recordings {
 		public void PdfRecords() {
 			System.out.println("Recordings.PdfRecords()");
 		}
+		
+		public void WordRecords() {
+			System.out.println("Recordings.WordRecords()");
+		}
 }
