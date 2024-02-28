@@ -9,4 +9,7 @@ public class PaymentOperation {
 	public String DebitCardPayment() {
 		return "Debit card payment successfull";
 	}
+	public String UPIPayment() {
+		return "UPI payment successfull";
+	}
 }
