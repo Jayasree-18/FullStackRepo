@@ -1,4 +1,4 @@
-package com.nt.test;
+package com.nt.main;
 
 public class ArithmeticOperations {
 	public int sum(int x,int y) {
