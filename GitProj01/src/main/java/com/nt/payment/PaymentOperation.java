@@ -12,4 +12,8 @@ public class PaymentOperation {
 	public String UPIPayment() {
 		return "UPI payment successfull";
 	}
+	
+	public String NetBankingPayment() {
+		return "NetBanking payment successfull";
+	}
 }
